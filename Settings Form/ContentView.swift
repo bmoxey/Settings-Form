@@ -91,6 +91,7 @@ struct ContentView: View {
             }
             
             .navigationBarTitle("Game Of A Life")
+            .navigationBarTitleDisplayMode(.inline)
 
         }
 
